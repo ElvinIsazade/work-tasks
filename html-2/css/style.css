@@ -1,0 +1,19 @@
+.name{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px 0 5px 0;
+}
+.first, .second, .three{
+    display: inline-block;
+    vertical-align: top;
+}
+.second{
+    margin: 20px 20px 0 40px;
+}
+ul li a{
+    color: palevioletred;
+}
+p a{
+    color: palevioletred;
+}
